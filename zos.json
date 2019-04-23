@@ -1,0 +1,8 @@
+{
+  "zosversion": "2.2",
+  "name": "hello-zos",
+  "version": "1.0.0",
+  "contracts": {
+    "HelloZos": "HelloZos"
+  }
+}
